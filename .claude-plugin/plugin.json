@@ -1,0 +1,1 @@
+{ "name": "compact-meter", "version": "0.1.0", "description": "Measure only: log what a /compact keeps and what Claude Code re-attaches after it (restored Reads, invoked skills, instructions, listings), by size, to ~/.claude/compact-meter.log", "license": "MIT", "author": { "name": "je2020je" } }

@@ -1,0 +1,5 @@
+{
+  "name": "compact-meter",
+  "owner": { "name": "je2020je" },
+  "plugins": [{ "name": "compact-meter", "source": "./" }]
+}
